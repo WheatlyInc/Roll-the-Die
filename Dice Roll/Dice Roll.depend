@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516567803 source:z:\users\john\documents\codeblocks for fun\roll the die\dice roll\main.cpp
+	<iostream>
+	<limits>
+	<cstdlib>
+	<ctime>
+
