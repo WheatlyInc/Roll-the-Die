@@ -1,0 +1,3 @@
+﻿  main.cpp
+z:\users\john\documents\the real documents\coding stuff\coding projects\codeblocks c++ for fun\roll-the-die\dice roll\main.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rolling Die VS Project.vcxproj -> Z:\Users\John\Documents\The REAL Documents\Coding Stuff\Coding Projects\CodeBlocks C++ For Fun\Roll-the-Die\Rolling Die VS Project\Debug\Rolling Die VS Project.exe
